@@ -1,4 +1,4 @@
-#The Root
+# The Root
 
 The `/` character is used to represent the root of the file system and the anything written ahead specifies the path. For this challenege the `/pwn` had the flag.
 
