@@ -11,4 +11,4 @@ hacker@hello~intro-to-commands:~$ hello
 Success! Here is your flag:
 pwn.college{MEN7VZUpSFOVOY9FahCDQkfMQaV.ddjNyUDL2AjN0czW}
 ```
-The resources that I used were the Whatsapp video forwarded by my mentor. 
+Resource used was the pwn wesbite. 
