@@ -7,4 +7,4 @@ hacker@hello~intro-to-arguments:~$ hello hackers
 Success! Here is your flag:
 pwn.college{MuI41L2tsr_j8k4wNi_N2PcEdu6.dhjNyUDL2AjN0czW}
 ```
-Only resource used was the pwn.college website explanation, as it was self explanatory.
+Resource used was the pwn website.
