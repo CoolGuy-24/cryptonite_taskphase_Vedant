@@ -1,12 +1,6 @@
 # Linking Files
 I created a symbolic link that points `/home/hacker/not-the-flag` to `/flag`. This way, when `/challenge/catflag` tries to read `/home/hacker/not-the-flag`, it will actually follow the symlink and read `/flag` instead
 ```bash
-hacker@commands~linking-files:~$ ls
- flag   ourfile  '~'
-hacker@commands~linking-files:~$ file flag
-flag: symbolic link to /flag
-hacker@commands~linking-files:~$ file ourfile
-ourfile: symbolic link to flag
 hacker@commands~linking-files:~$ ln -s /flag /home/hacker/not-the-flag
 hacker@commands~linking-files:~$ /challenge/catflag
 About to read out the /home/hacker/not-the-flag file!
