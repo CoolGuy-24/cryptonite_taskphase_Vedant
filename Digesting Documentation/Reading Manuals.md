@@ -36,4 +36,4 @@ pwn.college                                                 May 2024            
 hacker@man~reading-manuals:~$ /challenge/challenge --oyfcxx 935
 Correct usage! Your flag: pwn.college{IR9XB3oyfcxxB5rDDYw4-MvJ3pn.dRTM4QDL2AjN0czW}
 ```
-Resource that was the pwn website.
+Resource used was the pwn website.
