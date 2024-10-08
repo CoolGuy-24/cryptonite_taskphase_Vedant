@@ -6,4 +6,4 @@ hacker@man~learning-from-documentation:~$ /challenge/challenge --giveflag
 Correct argument! Here is your flag:
 pwn.college{4HEQM2fUyYOMcUGAtX6ALu7KX2a.dRjM5QDL2AjN0czW}
 ```
-Resource that was the pwn website.
+Resource used was the pwn website.
