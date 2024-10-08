@@ -5,4 +5,4 @@ hacker@man~learning-complex-usage:~$ /challenge/challenge --printfile /flag
 Correct argument! Here is the /flag file:
 pwn.college{4MZck5NDe-e83-Yy0SkHMaFxc0Q.dVjM5QDL2AjN0czW}
 ```
-Resources that I used was the pwn website.
+Resource that was the pwn website.
