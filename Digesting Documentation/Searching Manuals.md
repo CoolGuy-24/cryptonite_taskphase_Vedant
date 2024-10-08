@@ -6,4 +6,4 @@ hacker@man~searching-manuals:~$ /challenge/challenge --lqn
 Initializing...
 Correct usage! Your flag: pwn.college{IlPYg7bkhHW-D9OmEMKb3mP7Y5x.dVTM4QDL2AjN0czW}
 ```
-Resource that was used was the pwn website.
+Resource used was the pwn website.
