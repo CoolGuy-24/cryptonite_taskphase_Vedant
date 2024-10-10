@@ -1,4 +1,5 @@
 # Exporting variables
+I set the `PWN` variable and `COLLEGE` variable to their apporpriate values and then also exported the `PWN` variable using `export`. By using the `sh` command I invoked another shell inside my shell and excuted the `/challenge/run` command to obtain the flag.
 
 ```bash
 hacker@variables~exporting-variables:~$ export PWN=COLLEGE
