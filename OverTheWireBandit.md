@@ -1,5 +1,5 @@
 # Level 0
-I established a SSH connection to the website and entered the passowrd to gain access to the game.
+I established a SSH connection to the website and entered the password to gain access to the game.
 
 ![image](https://github.com/user-attachments/assets/dfce7c3d-5a55-4460-9db6-51da56d0aedc)
 
@@ -51,3 +51,10 @@ I used a similar technique to find the place of the password and this time used 
 ![image](https://github.com/user-attachments/assets/ed9dc5a4-6ca8-4163-8779-f2edad3d7150)
 ![image](https://github.com/user-attachments/assets/591e9dab-9471-47a7-993c-95bde0b58140)
 ![image](https://github.com/user-attachments/assets/5aea67b8-6835-4606-a7e7-6c5d25488081)
+
+# Level 7-->8
+This simply required the use of `grep` to search within the file `data.txt`. 
+
+![image](https://github.com/user-attachments/assets/69d16c06-1c93-424a-ad99-c826833edf5f)
+
+# Level 8-->9
